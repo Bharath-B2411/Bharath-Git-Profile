@@ -1,5 +1,4 @@
-![snake gif](https://github.com/Bharath-B2411/Bharath-B2411/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
 
