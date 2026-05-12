@@ -1,8 +1,26 @@
-<div align="center">
+<table>
+<tr>
+<td width="55%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Universe+🚀;AI+Developer+%7C+Full+Stack+Engineer;Building+Ideas+Into+Reality"/>
+# 👋 Hey, I'm Bharath
 
-</div>
+### 🚀 Web Development 
+### 🤖 AI Enthusiast  
+### 💻 Future Innovator
+
+🧠 Building Real World AI Projects  
+🔥 Passionate About Innovation  
+⚡ Learning Everyday  
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
