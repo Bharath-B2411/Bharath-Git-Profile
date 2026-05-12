@@ -1,3 +1,4 @@
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_ID)](https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_ID)
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
