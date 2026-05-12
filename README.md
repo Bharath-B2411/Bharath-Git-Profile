@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharath</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Aspiring Future Innovator | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Vaanga+Project+Pannalaama+😍;Learning+Something+New+Everyday;Future+Innovator+💻" />
@@ -56,6 +56,7 @@
 ✨ MedScan AI – Medical Report Analyzer  
 ✨ AI Powered Public Grievance System  
 ✨ Online Book Store in Java  
+✨ AI Code Generator 
 
 ---
 
